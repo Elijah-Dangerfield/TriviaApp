@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "985719371506",
+    "firebase_url": "https://trivia-app-5c1e0.firebaseio.com",
+    "project_id": "trivia-app-5c1e0",
+    "storage_bucket": "trivia-app-5c1e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:985719371506:android:0d9400c1d65531c8ee426b",
+        "android_client_info": {
+          "package_name": "com.dangerfield.triviaapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "985719371506-734sltdn2mmh02t1ss5c4hk7auqffg05.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dangerfield.triviaapp",
+            "certificate_hash": "c312f101f19db4f13d28ebbf6e8aae3e970b12a4"
+          }
+        },
+        {
+          "client_id": "985719371506-fsomm9evnat7irt2sts1o9rknsdge2jf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOV9Y_5cx9r1TlvcyXhNLUs-Pdg2rFXro"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "985719371506-fsomm9evnat7irt2sts1o9rknsdge2jf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
