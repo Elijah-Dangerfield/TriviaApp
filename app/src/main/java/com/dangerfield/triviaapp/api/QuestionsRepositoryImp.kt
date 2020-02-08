@@ -5,7 +5,7 @@ import androidx.lifecycle.MutableLiveData
 import com.dangerfield.triviaapp.model.Question
 import com.google.firebase.firestore.FirebaseFirestore
 
-class QuestionsRepositoryImp(): QuestionsRepository {
+class QuestionsRepositoryImp: QuestionsRepository {
     private val db = FirebaseFirestore.getInstance()
 
     override fun getQuestions(): MutableLiveData<List<Question>> {
@@ -16,6 +16,4 @@ class QuestionsRepositoryImp(): QuestionsRepository {
         }
         return result
     }
-
-
 }
