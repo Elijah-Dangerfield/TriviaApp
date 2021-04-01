@@ -4,4 +4,4 @@
 
 This application is part of a series on Medium on creating modern android applications with modern tools. 
 
-That code can be found here
+That series can be found [here](https://medium.com/@elijahdangerfield111/modern-android-development-with-mvvm-livedata-and-firebase-part-1-474d00ab95eb)
